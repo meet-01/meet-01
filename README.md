@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Meet 
 I'm a developer from India in love with all things around caffeine and React!
 
-![React Developer](https://avatars.githubusercontent.com/u/73590529?s=400&u=8424f11f51bf3675fd5acf5e1d3ce02af6a98f20&v=4)
+
 
 
 
